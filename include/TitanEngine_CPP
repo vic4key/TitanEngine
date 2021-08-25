@@ -1,0 +1,7 @@
+#ifndef TITAN_ENGINE_CXX
+#define TITAN_ENGINE_CXX
+
+#include <TitanEngine.hpp>
+#pragma comment(lib, "TitanEngine.lib")
+
+#endif // TITAN_ENGINE_CXX
